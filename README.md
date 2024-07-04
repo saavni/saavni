@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saavni Rai</h1>
 <h3 align="center">Inquisitive, energetic computer science geek</h3>
-<img align="right" alt="Coding" width="400" src=""> <iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh-2002" /> </p>
 
