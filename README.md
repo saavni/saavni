@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saavni Rai</h1>
 <h3 align="center">Inquisitive, energetic computer science geek</h3>
-<img align="right" alt="Coding" width="400" src="(https://camo.githubusercontent.com/fe912041c80ddd7cf0a8ba842b6e8575252b1f6e6e35178f23f2453aac7bf26a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a6a4e6c596d4a6c596a41325a4445314e47466a5a544a6c4e7a6b345a44426c4d3259794d6a526d4d54517a4f474d304d7a566a59695a6c634431324d563970626e526c636d35686246396e61575a7a583264705a6b6c6b4a6d4e305057632f4c3152317476493973766b495777705659722f67697068792e676966)">
+<img align="right" alt="Coding" width="400" src="(https://i.gifer.com/3Ayb.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh-2002" /> </p>
 
