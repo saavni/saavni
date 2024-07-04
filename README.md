@@ -21,11 +21,9 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_WJ710wIOhU7XWH_uk0snx3Rp7ohDa5iJaH3Dzqg&s" alt="oracle" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-singh-2002&show_icons=true&locale=en&layout=compact" alt="shubham-singh-2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saavni&show_icons=true&locale=en&layout=compact" alt="saavni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-singh-2002&show_icons=true&locale=en" alt="shubham-singh-2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssaavni&show_icons=true&locale=en" alt="saavni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-singh-2002&" alt="shubham-singh-2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saavni&" alt="saavni" /></p>
 
-### HoloPins Badges
-[![An image of @shubhamsingh2002 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamsingh2002)](https://holopin.io/@shubhamsingh2002)
