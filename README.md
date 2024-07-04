@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saavni Rai</h1>
 <h3 align="center">Inquisitive, energetic computer science geek</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif](https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-singh-2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-singh-2002" /> </p>
 
